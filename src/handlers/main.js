@@ -89,7 +89,7 @@ async function addReply(message) {
 
 const audioList = [
     {
-        keyword: "safada",
+        keyword: "puta",
         audioUrl:  "https://https://www.myinstants.com/media/sounds/cala-boca-put4.mp3",
     },
     {
@@ -109,7 +109,7 @@ const audioList = [
         audioUrl: "https://www.myinstants.com/media/sounds/bom-dia-bb-online-audio-converter.mp3",
     },
     {
-        keyword: "chata",
+        keyword: "clbc",
         audioUrl: "https://www.myinstants.com/media/sounds/cebolinha_xingando_a_monica_3316993880162726519.mp3",
     },
     {
@@ -125,7 +125,7 @@ const audioList = [
         audioUrl: "https://www.myinstants.com/media/sounds/vc-e-gado.mp3",
     },
     {
-        keyword: "mulheres",
+        keyword: "mulher",
         audioUrl: "https://www.myinstants.com/media/sounds/a-boate-california.mp3",
     },
     {
@@ -133,7 +133,7 @@ const audioList = [
         audioUrl: "https://www.myinstants.com/media/sounds/vai-toma-no-cu-discord.mp3",
     },
     {
-        keyword: "Hannah",
+        keyword: "hannah",
         audioUrl: "https://www.myinstants.com/media/sounds/cebolinha-elogios.mp3",
     },
     {
@@ -141,7 +141,7 @@ const audioList = [
         audioUrl: "https://www.myinstants.com/media/sounds/angelik-silva-k.mp3",
     },
     {
-        keyword: "tédio",
+        keyword: "tedio",
         audioUrl: "https://www.myinstants.com/media/sounds/a-pia-ta-cheia-de-loca.mp3",
     },
     {
@@ -157,7 +157,7 @@ const audioList = [
         audioUrl: "https://www.myinstants.com/media/sounds/whatsapp-audio_1KgxwtR.mp3",
     },
     {
-        keyword: "Xvídeos",
+        keyword: "porno",
         audioUrl: "https://www.myinstants.com/media/sounds/e-o-brazino.mp3",
     },
     {
@@ -177,19 +177,19 @@ const audioList = [
         audioUrl: "https://www.myinstants.com/media/sounds/oi-moa-noite.mp3",
     },
     {
-        keyword: "chama",
+        keyword: "kid",
         audioUrl: "https://www.myinstants.com/media/sounds/eu-queria-ser-o-kid.mp3",
     },
     {
-        keyword: "fazendo?",
+        keyword: "comer",
         audioUrl: "https://www.myinstants.com/media/sounds/hoje-comeremos-cu.mp3",
     },
     {
-        keyword: "queria",
+        keyword: "gozar",
         audioUrl: "https://www.myinstants.com/media/sounds/eu-quero-gozar-meme.mp3",
     },
     {
-        keyword: "solteiro",
+        keyword: "bicha",
         audioUrl: "https://www.myinstants.com/media/sounds/kkkkkwinx.mp3",
     },
     {
@@ -218,7 +218,7 @@ const audioList = [
 
     },
     {
-        keyword: "🌻",
+        keyword: "viajar",
         audioUrl: "https://www.myinstants.com/media/sounds/eu-viajei-no-seu-olhar.mp3",
     },
     {
@@ -231,7 +231,7 @@ const audioList = [
 
     },
     {
-        keyword: "flamengo",
+        keyword: "afjknjoiwhnfgweiofhjwoeifjweoifjw",
         audioUrl: "https://www.myinstants.com/media/sounds/tmp4z1468wq.mp3",
 
     },
@@ -254,7 +254,7 @@ const audioList = [
 
     },
     {
-        keyword: "Bianca",
+        keyword: "inferno",
         audioUrl: "https://www.myinstants.com/media/sounds/bn-que-inferno-nesse-grupo-1.mp3",
 
     },
@@ -299,7 +299,7 @@ const audioList = [
 
     },
     {
-        keyword: "Beth",
+        keyword: "cantada",
         audioUrl: "https://www.myinstants.com/media/sounds/cantadas-rodrigo-faro.mp3",
     },
 ];
@@ -514,7 +514,7 @@ async function start(message) {
     }
     const firstName = message.from.first_name;
     const message_start_dev = `Olá, <b>${firstName}</b>! Olá meu lindo desenvolvedor 😍💻\n\nVocê está no comando neném, mas use seus poderes com sabedoria`;
-    const message_start = `Olá, <b>${firstName}</b>!\n\nEu sou a <b>Hannah</b>, As invejosas vão dizer que sou um bot\n\n💅 <b>Meu grupo:</b> <a href="https://t.me/badoodotelegram">Clique aqui</a>\n\n`;
+    const message_start = `Olá, <b>${firstName}</b>!\n\nEu sou a <b>Hannah</b>, As invejosas vão dizer que sou um bot\n\n💅 <b>Meu grupo:</b> <a href="https://t.me/Ohbarzinho">Clique aqui</a>\n\n`;
     const options_start = {
         parse_mode: "HTML",
         disable_web_page_preview: true,
@@ -528,8 +528,8 @@ async function start(message) {
                 ],
                 [
                     {
-                        text: "Meu grupo oficial ✅",
-                        url: "https://t.me/badoodotelegram",
+                        text: "Meu Canal ✅",
+                        url: "https://t.me/hannahoficial",
                     },
                     {
                         text: "彡[ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ]彡",
@@ -552,8 +552,8 @@ async function start(message) {
             inline_keyboard: [
                 [
                     {
-                        text: "彡[ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ]彡",
-                        url: "https://t.me/danprojects",
+                        text: "Meu Canal ✅",
+                        url: "https://t.me/hannahoficial",
                     },
                 ],
                 [
@@ -563,7 +563,7 @@ async function start(message) {
                     },
                     {
                         text: "👨‍💻 Suporte",
-                        url: "https://t.me/kylorensbot",
+                        url: "https://t.me/jorgeda92",
                     },
                 ],
                 [
@@ -800,8 +800,8 @@ async function saveNewChatMembers(msg) {
                         inline_keyboard: [
                             [
                                 {
-                                    text: "Meu grupo",
-                                    url: "https://t.me/badoodotelegram",
+                                    text: "Meu Canal ✅",
+                                    url: "https://t.me/hannahoficial",
                                 },
                                 {
                                     text: "Suporte",
