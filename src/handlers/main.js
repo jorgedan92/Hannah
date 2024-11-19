@@ -89,7 +89,7 @@ async function addReply(message) {
 
 const audioList = [
     {
-        keyword: "puta",
+        keyword: "cala a boca",
         audioUrl:  "https://https://www.myinstants.com/media/sounds/cala-boca-put4.mp3",
     },
     {
@@ -113,11 +113,11 @@ const audioList = [
         audioUrl: "https://www.myinstants.com/media/sounds/cebolinha_xingando_a_monica_3316993880162726519.mp3",
     },
     {
-        keyword: "festa",
+        keyword: "pau",
         audioUrl: "https://www.myinstants.com/media/sounds/proibido-pau-mole.mp3",
     },
     {
-        keyword: "me chama",
+        keyword: "chama",
         audioUrl: "https://www.myinstants.com/media/sounds/5a1f6s4fads5f-copia_0FcOETT.mp3",
     },
     {
@@ -125,11 +125,11 @@ const audioList = [
         audioUrl: "https://www.myinstants.com/media/sounds/vc-e-gado.mp3",
     },
     {
-        keyword: "mulher",
+        keyword: "cabaré",
         audioUrl: "https://www.myinstants.com/media/sounds/a-boate-california.mp3",
     },
     {
-        keyword: "cala a boca",
+        keyword: "cu",
         audioUrl: "https://www.myinstants.com/media/sounds/vai-toma-no-cu-discord.mp3",
     },
     {
@@ -137,15 +137,15 @@ const audioList = [
         audioUrl: "https://www.myinstants.com/media/sounds/cebolinha-elogios.mp3",
     },
     {
-        keyword: "Oi gente",
+        keyword: "oi",
         audioUrl: "https://www.myinstants.com/media/sounds/angelik-silva-k.mp3",
     },
     {
-        keyword: "tedio",
+        keyword: "tédio",
         audioUrl: "https://www.myinstants.com/media/sounds/a-pia-ta-cheia-de-loca.mp3",
     },
     {
-        keyword: "manda foto",
+        keyword: "foto",
         audioUrl: "https://www.myinstants.com/media/sounds/eae-gata-online-audio-converter.mp3",
     },
     {
@@ -161,15 +161,15 @@ const audioList = [
         audioUrl: "https://www.myinstants.com/media/sounds/e-o-brazino.mp3",
     },
     {
-        keyword: "aniversário",
+        keyword: "Parabéns",
         audioUrl: "https://www.myinstants.com/media/sounds/xuxa-aniversario-btko.mp3",
     },
     {
-        keyword: "gay",
+        keyword: "viado",
         audioUrl: "https://www.myinstants.com/media/sounds/uma-bixa-foi-detectada.mp3",
     },
     {
-        keyword: "Bom dia grupo",
+        keyword: "Bom dia gente",
         audioUrl: "https://www.myinstants.com/media/sounds/bom-dia-minha-pika.mp3",
     },
     {
@@ -181,15 +181,15 @@ const audioList = [
         audioUrl: "https://www.myinstants.com/media/sounds/eu-queria-ser-o-kid.mp3",
     },
     {
-        keyword: "comer",
+        keyword: "hoje",
         audioUrl: "https://www.myinstants.com/media/sounds/hoje-comeremos-cu.mp3",
     },
     {
-        keyword: "gozar",
+        keyword: "gozei",
         audioUrl: "https://www.myinstants.com/media/sounds/eu-quero-gozar-meme.mp3",
     },
     {
-        keyword: "bicha",
+        keyword: "boiola",
         audioUrl: "https://www.myinstants.com/media/sounds/kkkkkwinx.mp3",
     },
     {
@@ -197,7 +197,7 @@ const audioList = [
         audioUrl: "https://www.myinstants.com/media/sounds/alborg-6_1.mp3",
     },
     {
-        keyword: "ADM",
+        keyword: "adm",
         audioUrl: "https://www.myinstants.com/media/sounds/iludido-pela-adm.mp3",
     },
     {
@@ -218,7 +218,7 @@ const audioList = [
 
     },
     {
-        keyword: "viajar",
+        keyword: "viajem",
         audioUrl: "https://www.myinstants.com/media/sounds/eu-viajei-no-seu-olhar.mp3",
     },
     {
@@ -231,13 +231,13 @@ const audioList = [
 
     },
     {
-        keyword: "afjknjoiwhnfgweiofhjwoeifjweoifjw",
-        audioUrl: "https://www.myinstants.com/media/sounds/tmp4z1468wq.mp3",
+        keyword: "Tudo bem?",
+        audioUrl: "https://www.myinstants.com/media/sounds/e-q-eu-to-meio-gripadinha.mp3",
 
     },
     {
-        keyword: "qfgrhetrg42324331",
-        audioUrl: "https://www.myinstants.com/media/sounds/eu-viajei-no-seu-olhar.mp3",
+        keyword: "Gustavo",
+        audioUrl: "https://www.myinstants.com/media/sounds/e-o-calvo-a-tropa-do-calvo.mp3",
     },
     {
         keyword: "pintura",
@@ -245,7 +245,7 @@ const audioList = [
 
     },
     {
-        keyword: "sentar",
+        keyword: "senta",
         audioUrl: "https://www.myinstants.com/media/sounds/montagem-chama-no-whatsapp-pra-poder-entrar-na-vara-2015-djs-r15-e-lucian-trimmed.mp3",
     },
     {
@@ -254,12 +254,12 @@ const audioList = [
 
     },
     {
-        keyword: "inferno",
+        keyword: "grupo",
         audioUrl: "https://www.myinstants.com/media/sounds/bn-que-inferno-nesse-grupo-1.mp3",
 
     },
     {
-        keyword: "almoço",
+        keyword: "almoçar",
         audioUrl: "https://www.myinstants.com/media/sounds/voce-vem-almocar.mp3",
 
     },
@@ -274,7 +274,7 @@ const audioList = [
 
     },
     {
-        keyword: "aúdio",
+        keyword: "manda aúdio",
         audioUrl: "https://www.myinstants.com/media/sounds/abriu-o-audio.mp3",
 
     },
@@ -436,7 +436,7 @@ async function saveUserInformation(message) {
 
         await newUser.save();
 
-        const notificationMessage = `#Togurosbot #New_User
+        const notificationMessage = `#Hannahbot #New_User
       <b>User:</b> <a href="tg://user?id=${user.id}">${user.first_name}</a>
       <b>ID:</b> <code>${user.id}</code>
       <b>Username:</b> ${user.username ? `@${user.username}` : "Não informado"
@@ -496,13 +496,13 @@ async function removeMessage(message) {
     if (message.message_id) {
         bot.sendMessage(
             chatId,
-            `Mensagem deletada com sucesso do banco de dados pelo(a) dev: <b><a href="tg://user?id=${user.id}">${user.first_name}</a></b>. \n\nObs.: Lembrando que todas as respostas que estavam adicionadas a essa mensagem foram apagadas.`,
+            `Mensagem apagada com sucesso do banco de dados, seu mandão 😏: <b><a href="tg://user?id=${user.id}">${user.first_name}</a></b>. E olha só, todas as respostas? Foram pro inferno também. Tá satisfeito agora, chefão?`,
             { parse_mode: "HTML", reply_to_message_id: message.message_id }
         );
     } else {
         bot.sendMessage(
             chatId,
-            `Mensagem deletada com sucesso do banco de dados pelo usuário: <b><a href="tg://user?id=${user.id}">${user.first_name}</a></b>. \n\nObs.: Lembrando que todas as respostas que estavam adicionadas a essa mensagem foram apagadas.`,
+            `Mensagem apagada com sucesso do banco de dados, seu mandão 😏: <b><a href="tg://user?id=${user.id}">${user.first_name}</a></b>. E olha só, todas as respostas? Foram pro inferno também. Tá satisfeito agora, chefão?`,
             { parse_mode: "HTML" }
         );
     }
@@ -513,8 +513,8 @@ async function start(message) {
         return;
     }
     const firstName = message.from.first_name;
-    const message_start_dev = `Olá, <b>${firstName}</b>! Olá meu lindo desenvolvedor 😍💻\n\nVocê está no comando neném, mas use seus poderes com sabedoria`;
-    const message_start = `Olá, <b>${firstName}</b>!\n\nEu sou a <b>Hannah</b>, As invejosas vão dizer que sou um bot\n\n💅 <b>Meu grupo:</b> <a href="https://t.me/Ohbarzinho">Clique aqui</a>\n\n`;
+    const message_start_dev = `Oi, <b>${firstName}</b>! Olá, meu gostoso (a) desenvolvedor (a) 😈💻 Você tá no comando, neném... mas cuidado pra não abusar demais, ou eu vou ter que te colocar na linha.`;
+    const message_start = `Olá, <b>${firstName}</b>!\n\nEu sou a <b>Hannah</b>, As invejosas vão dizer que sou um bot\n\n💅 <b>Meu Canal de Safadeza:</b> <a href="https://t.me/EiPsiiu">Clique aqui</a>\n\n`;
     const options_start = {
         parse_mode: "HTML",
         disable_web_page_preview: true,
@@ -528,18 +528,18 @@ async function start(message) {
                 ],
                 [
                     {
-                        text: "Meu Canal ✅",
-                        url: "https://t.me/hannahoficial",
+                        text: "🍻 𝐁𝐀𝐑 𝐃𝐎𝐒 𝐄𝐍𝐂𝐀𝐋𝐇𝐀𝐃𝐎𝐒",
+                        url: "https://t.me/+Nu8fNRReevAxYzcx",
                     },
                     {
-                        text: "彡[ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ]彡",
-                        url: "https://t.me/danprojects",
+                        text: "🔄 Atualizações",
+                        url: "https://t.me/hannahoficial",
                     },
                 ],
                 [
                     {
-                        text: "Nossa federação 🛡",
-                        url: "https://t.me/fednovaera",
+                        text: "📞 Suporte",
+                        url: "https://t.me/jorgedan92",
                     },
                 ],
             ],
@@ -552,14 +552,14 @@ async function start(message) {
             inline_keyboard: [
                 [
                     {
-                        text: "Meu Canal ✅",
+                        text: "🚀 𝕄𝕪 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤 💻",
                         url: "https://t.me/hannahoficial",
                     },
                 ],
                 [
                     {
-                        text: "彡[ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ]彡",
-                        url: "https://t.me/fednovaera",
+                        text: "🍻 𝐁𝐀𝐑 𝐃𝐎𝐒 𝐄𝐍𝐂𝐀𝐋𝐇𝐀𝐃𝐎𝐒",
+                        url: "https://t.me/+Nu8fNRReevAxYzcx",
                     },
                     {
                         text: "👨‍💻 Suporte",
@@ -635,12 +635,12 @@ async function stats(message) {
     const user_id = message.from.id;
     if (!(await is_dev(user_id))) {
         if (message.message_id) {
-            bot.sendMessage(message.chat.id, `Você não é *desenvolvedor*. 👨‍💻`, {
+            bot.sendMessage(message.chat.id, `Ah, você acha que é desenvolvedor? 🙄 Nem se esforça, campeão, porque aqui quem manda sou eu, não você. 😏`, {
                 reply_to_message_id: message.message_id,
                 parse_mode: "Markdown",
             });
         } else {
-            bot.sendMessage(message.chat.id, `Você não é *desenvolvedor*. 👨‍💻`, {
+            bot.sendMessage(message.chat.id, `Ah, você acha que é desenvolvedor? 🙄 Nem se esforça, campeão, porque aqui quem manda sou eu, não você. 😏`, {
                 parse_mode: "Markdown",
             });
             return;
@@ -778,7 +778,7 @@ async function saveNewChatMembers(msg) {
             }
 
             if (newMembers.length > 0) {
-                const message = `#Togurosbot #New_Group
+                const message = `#Hannahbot #New_Group
                 <b>Group:</b> ${chatName}
                 <b>ID:</b> <code>${chatId}</code>
                 <b>Link:</b> ${chatusername}`;
@@ -794,17 +794,17 @@ async function saveNewChatMembers(msg) {
 
             bot.sendMessage(
                 chatId,
-                "Oi, eu sou a Hannah, bora agitar essa bagaça hahaha.",
+                "Oi, eu sou a Hannah, e já vou avisando: bora agitar essa bagaça logo, porra, porque não tô aqui pra brincadeira. 😈🔥",
                 {
                     reply_markup: {
                         inline_keyboard: [
                             [
                                 {
-                                    text: "Meu Canal ✅",
-                                    url: "https://t.me/hannahoficial",
+                                    text: "🔥 𝐄𝐢𝐢!𝐏𝐬𝐢𝐢𝐮!",
+                                    url: "https://t.me/EiPsiiu",
                                 },
                                 {
-                                    text: "Suporte",
+                                    text: "💻 Suporte",
                                     url: "https://t.me/jorgedan92",
                                 },
                             ],
@@ -818,7 +818,7 @@ async function saveNewChatMembers(msg) {
         );
 
         if (developerMembers.length > 0) {
-            const message = `😍 <b>Meu lindo e gostoso desenvolvedor entrou no grupo</b> <a href="tg://user?id=${developerMembers[0].id}">${developerMembers[0].first_name}</a> 😎👍`;
+            const message = `*😍 Olha só quem entrou: meu lindo(a) e gostoso(a) desenvolvedor(a)* <a href="tg://user?id=${developerMembers[0].id}">${developerMembers[0].first_name}</a>. *Finalmente alguém que vale a pena nessa bagaça, hein?* 😎🔥`;
             bot.sendMessage(chatId, message, { parse_mode: "HTML" }).catch(
                 (error) => {
                     console.error(
@@ -871,7 +871,7 @@ async function ban(message) {
     if (message.chat.type !== "private") {
         await bot.sendMessage(
             message.chat.id,
-            "Por favor, envie este comando em um chat privado com o bot."
+            "Ah, quer que eu faça o trabalho sujo de banir alguém, é? 🙄 Que tal você mesmo resolver isso, porque eu não tô aqui pra ser sua assistente pessoal. Vá pro privado se quiser minha atenção. 😏"
         );
         return;
     }
@@ -905,7 +905,7 @@ async function ban(message) {
     } else {
         chatUsername = "Private Group";
     }
-    const banMessage = `#Togurosbot #Banned
+    const banMessage = `#Hannahbot #Banned
     <b>Group:</b> ${chat.chatName}
     <b>ID:</b> <code>${chatId}</code>
     <b>Dev:</b> ${chatUsername}`;
@@ -919,7 +919,7 @@ async function ban(message) {
     );
 
     await ChatModel.updateOne({ chatId: chatId }, { $set: { is_ban: true } });
-    await bot.sendMessage(chatId, `Meu lindo desenvolvedor pediu para que eu saísse desse grupo, tchau!`);
+    await bot.sendMessage(chatId, `Ah, um dos desenvolvedores acha que esse grupo só tem gente que não presta e mandou eu sair, tchau!`);
     await bot.leaveChat(chatId);
 
     await bot.sendMessage(
@@ -1092,7 +1092,7 @@ async function devs(message) {
     if (!is_dev(userId)) {
         bot.sendMessage(
             chatId,
-            "Este comando só pode ser usado por desenvolvedores!"
+            "Esse comando só pode ser usado por desenvolvedores, pois é, parece que você não tem a menor ideia do que tá fazendo. Vai lá, tenta de novo quando for realmente um desenvolvedor, ou melhor, quando se tornar alguém útil."
         );
         return;
     }
@@ -1343,12 +1343,12 @@ bot.onText(/\/sendgp/, async (msg, match) => {
 
 function sendBotOnlineMessage() {
     console.log(`Toguro iniciado com sucesso...`);
-    bot.sendMessage(groupId, `#Toguro #ONLINE\n\nBot is now playing ...`, { reply_to_message_id: 38567});
+    bot.sendMessage(groupId, `#Hannah #ONLINE\n\nBot is now playing ...`, { reply_to_message_id: 38567});
 }
 
 function sendBotOfflineMessage() {
     console.log(`Toguro encerrado com sucesso...`);
-    bot.sendMessage(groupId, `#Toguro #OFFLINE\n\nBot is now off ...`, { reply_to_message_id: 38567})
+    bot.sendMessage(groupId, `#Hannah #OFFLINE\n\nBot is now off ...`, { reply_to_message_id: 38567})
         .then(() => {
             process.exit(0); // Encerra o processo do bot após enviar a mensagem offline
         })
