@@ -514,7 +514,7 @@ async function start(message) {
     }
     const firstName = message.from.first_name;
     const message_start_dev = `Oi, <b>${firstName}</b>! Olá, meu gostoso (a) desenvolvedor (a) 😈💻 Você tá no comando, neném... mas cuidado pra não abusar demais, ou eu vou ter que te colocar na linha.`;
-    const message_start = `Olá, <b>${firstName}</b>!\n\nEu sou a <b>Hannah</b>, As invejosas vão dizer que sou um bot\n\n💅 <b>Meu Canal de Safadeza:</b> <a href="https://t.me/EiPsiiu">Clique aqui</a>\n\n`;
+    const message_start = `Olá, <b>${firstName}</b>!\n\nEu sou a <b>Hannah</b>, As invejosas vão dizer que sou um bot\n\n💅 <b>Meu Canal de Safadeza:</b> <a href="https://t.me/hannahoficial">Clique aqui</a>\n\n`;
     const options_start = {
         parse_mode: "HTML",
         disable_web_page_preview: true,
@@ -528,8 +528,8 @@ async function start(message) {
                 ],
                 [
                     {
-                        text: "🍻 𝐁𝐀𝐑 𝐃𝐎𝐒 𝐄𝐍𝐂𝐀𝐋𝐇𝐀𝐃𝐎𝐒",
-                        url: "https://t.me/+Nu8fNRReevAxYzcx",
+                        text: "💎👑【Ｌｅｇｅｎｄáｒｉｏｓ】👑💎",
+                        url: "https://t.me/legendarios_ofc",
                     },
                     {
                         text: "🔄 Atualizações",
@@ -558,8 +558,8 @@ async function start(message) {
                 ],
                 [
                     {
-                        text: "🍻 𝐁𝐀𝐑 𝐃𝐎𝐒 𝐄𝐍𝐂𝐀𝐋𝐇𝐀𝐃𝐎𝐒",
-                        url: "https://t.me/+Nu8fNRReevAxYzcx",
+                        text: "💎👑【Ｌｅｇｅｎｄáｒｉｏｓ】👑💎",
+                        url: "https://t.me/legendarios_ofc",
                     },
                     {
                         text: "👨‍💻 Suporte",
@@ -800,8 +800,8 @@ async function saveNewChatMembers(msg) {
                         inline_keyboard: [
                             [
                                 {
-                                    text: "🔥 𝐄𝐢𝐢!𝐏𝐬𝐢𝐢𝐮!",
-                                    url: "https://t.me/EiPsiiu",
+                                    text: "💎👑【Ｌｅｇｅｎｄáｒｉｏｓ】👑💎",
+                                    url: "https://t.me/legendarios_ofc",
                                 },
                                 {
                                     text: "💻 Suporte",
